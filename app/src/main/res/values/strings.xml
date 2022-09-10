@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab 16 - Chat Omelko</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_set">Set</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_clear_history">Clear</string>
+    <string name="tv_messages">Messages</string>
+    <string name="tv_exit_message">Are you sure?</string>
+    <string name="tv_alert_message">Are you sure?</string>
+    <string name="tv_settings">Settings</string>
+    <string name="tv_message">Your message</string>
+    <string name="tv_ip">IP address</string>
+    <string name="tv_port">Port</string>
+    <string name="tv_nickName">Nickname</string>
+    <string name="tv_your_nickname">Your nickname</string>
+    <string name="tv_your_ip">Your IP address</string>
+    <string name="tv_your_port">Your port</string>
+    <string name="tv_receiver_settings">Receiver settings</string>
+    <string name="tv_your_settings">Your settings</string>
+    <string name="ErrorDel">Error, record is not deleted</string>
+    <string name="NickNameError">Nickname can not be empty</string>
+</resources>
